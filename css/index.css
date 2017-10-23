@@ -1,0 +1,16 @@
+
+
+textarea, label 
+{
+   display:block;
+}
+
+.topMargin
+{ 
+	margin-top:20px;
+}
+
+.bottomMargin
+{
+	margin-bottom: 20px;
+}
